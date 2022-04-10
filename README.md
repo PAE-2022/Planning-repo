@@ -1,2 +1,2 @@
 # Planning-repo
-Repo for planning stuff (user stories)
+Repo para planeación del proyecto, aquí se mantendrán la lista de historias de usuario
